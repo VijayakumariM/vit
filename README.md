@@ -39,7 +39,7 @@
         e. Compare and pull
         
         
-**Image**
+**Images**
 
 ![Gitlogo](https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg)
 
@@ -48,7 +48,8 @@
 [Github](https://github.com/)
 
 
-**Table**
+**Tables**
+
 |Name|Branch|College|
 | ------ | ------ | ------- |
 |abc|CSE|VRSEC|
@@ -56,14 +57,15 @@
 
 **Code**
 
-~~~
+```
      def iseven(n)
        if n % 2 == 0;
            return True;
         else:
             return False;
- '''
-     ~~vijaya~~
+```
+     
+ ~~vijaya~~
      
     
 - [X] Write the press release
@@ -72,5 +74,5 @@
 
 **Emoji**
 
- :stuck_out_tongue_winking_eye:
+ :smile:
             
