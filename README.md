@@ -33,12 +33,14 @@
         b. Cloning
     
         c. Create new Branch
-      
         
+        d. Push with new branch
       
         e. Compare and pull
-        \
+        
+        
 **Image**
+
 ![Gitlogo](https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg)
 
 
@@ -53,15 +55,16 @@
 |xyz|IT|VRSEC|
 
 **Code**
-....
 
+~~~
      def iseven(n)
        if n % 2 == 0;
            return True;
         else:
             return False;
- ~ ~ ~
-    ~~vijaya~~
+ '''
+     ~~vijaya~~
+     
     
 - [X] Write the press release
 - [ ] Update the website
